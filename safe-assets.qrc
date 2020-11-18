@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dats/battery.dat</file>
+        <file>dats/beam-blue.dat</file>
+        <file>dats/beam-grrn.dat</file>
+        <file>dats/engine-coolant.dat</file>
+        <file>dats/oil.dat</file>
+        <file>dats/parking-lights.dat</file>
+        <file>dats/warning.dat</file>
+        <file>safe_bg/circle.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SimpleRoundGauge.qml</file>
+        <file>TelltaleManager.qml</file>
+        <file>Telltale.qml</file>
+        <file>PictureTelltale.qml</file>
+        <file>HeadlightTelltale.qml</file>
+        <file>KwikSwitch.qml</file>
+        <file>GaugePanel.qml</file>
+        <file>SafeCode.qml</file>
+    </qresource>
+</RCC>

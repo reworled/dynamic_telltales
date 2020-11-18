@@ -1,0 +1,7 @@
+*.user*
+.DS_Store
+layoutdata.qrc
+*.srt
+*.qpf2
+*.srl
+*.srb

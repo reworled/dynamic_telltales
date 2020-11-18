@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Exo2-VariableFont_wght.ttf</file>
+    </qresource>
+</RCC>

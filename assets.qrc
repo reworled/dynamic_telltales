@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fuelcap.png</file>
+        <file>fuelneedle.png</file>
+        <file>tachneedle.png</file>
+        <file>speedcap.png</file>
+        <file>speedneedle.png</file>
+        <file>tachcap.png</file>
+        <file>background.png</file>
+        <file>speedbg.png</file>
+        <file>tachbg.png</file>
+        <file>fulebg.png</file>
+        <file>genericneedle.png</file>
+        <file>telltales/parking-lights.svg</file>
+        <file>telltales/battery.svg</file>
+        <file>telltales/engine-coolant.svg</file>
+        <file>telltales/warning.svg</file>
+        <file>telltales/oil.svg</file>
+        <file>telltales/beam-blue.png</file>
+        <file>telltales/beam-green.png</file>
+        <file>switchoff.png</file>
+        <file>switchon.png</file>
+        <file>car-logo.png</file>
+        <file>safe_bg/circle.png</file>
+    </qresource>
+</RCC>
